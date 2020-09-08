@@ -15,7 +15,7 @@ function Header() {
 
             />
             <div className='header__center'>
-                <input type='text' />
+                <input type='text' placeholder="Add location"/>
                 <SearchIcon />
             </div>
             <div className='header__right'>
